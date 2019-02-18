@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table-filter match-name="county"
+		match-catalog="injuryreportsdbpro">
+	</table-filter>
+	<table-filter match-name="crash_report"
+		match-catalog="injuryreportsdbpro">
+	</table-filter>
+	<table-filter match-name="crash_report_error"
+		match-catalog="injuryreportsdbpro">
+	</table-filter>
+	<table-filter match-name="patient"
+		match-catalog="injuryreportsdbpro">
+	</table-filter>
+	<table-filter match-name="police_agency"
+		match-catalog="injuryreportsdbpro">
+	</table-filter>
+	<table-filter match-name="reporting_agency"
+		match-catalog="injuryreportsdbpro">
+	</table-filter>
+	<table-filter match-name="vehicle_make_abbreviation"
+		match-catalog="injuryreportsdbpro">
+	</table-filter>
+</hibernate-reverse-engineering>
